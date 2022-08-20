@@ -22,13 +22,14 @@
 	def Ambitions():
 		MakeMoney()
 		TrainIntoEightPackabs()
-		JoinAlibaba()
 		BeingTechnicalExperts()
 ```
 
-### Where i am currently working at
+### Where i used work at
 
-- [CICC](https://www.cicc.com/) 💼 
+- [Netease](https://www.youdao.com/) 
+- [Alibaba](https://www.cainiao.com/wireless/index.html)
+- [CICC](https://www.cicc.com/) 💼 （currently）
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
